@@ -1,0 +1,5 @@
+main() {
+int a
+write ( -89 + 23 - 5 ) + 5
+readline a 
+}
